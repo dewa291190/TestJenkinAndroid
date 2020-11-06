@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_011_Esim_Mandiri</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91832894-6194-4152-a220-fb16dbe56f9f</testCaseGuid>
+   <variable>
+      <defaultValue>'com.smartfren'</defaultValue>
+      <description></description>
+      <id>94d5bf35-d5a4-42ed-aa25-2c628e803c09</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.smartfren.SplashActivity'</defaultValue>
+      <description></description>
+      <id>5db60d7f-98bc-4b23-87dc-04871b59859e</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '11', ('deviceId') : 'emulator-5554', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>28d153ac-174f-434d-95a3-880f68fbf2f7</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

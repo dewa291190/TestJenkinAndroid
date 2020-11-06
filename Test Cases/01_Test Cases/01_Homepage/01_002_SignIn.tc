@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_002_SignIn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca419366-84ac-44d9-8baa-2242ca969385</testCaseGuid>
+   <variable>
+      <defaultValue>'com.smartfren'</defaultValue>
+      <description></description>
+      <id>d8ee15a0-7f75-49c3-ae88-2aad5ad97773</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.smartfren.SplashActivity'</defaultValue>
+      <description></description>
+      <id>3ee9bb05-1975-4cf3-80bb-0777fee795ca</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '11', ('deviceId') : 'emulator-5554', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>2e7fd399-b8b6-4992-a81a-4c6dbec0784b</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

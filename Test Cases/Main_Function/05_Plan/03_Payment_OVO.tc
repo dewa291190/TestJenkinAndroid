@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_Payment_OVO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57782b0a-dcb3-4d08-b35a-7454d5daebe9</testCaseGuid>
+   <variable>
+      <defaultValue>'087788334061'</defaultValue>
+      <description></description>
+      <id>afbe496b-8722-4f7e-b814-da8d2a802ea6</id>
+      <masked>false</masked>
+      <name>OVO_Number</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_004_Sim_BCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb19a5a2-364a-45b2-af1b-4ec3731ee30a</testCaseGuid>
+   <variable>
+      <defaultValue>'com.smartfren'</defaultValue>
+      <description></description>
+      <id>46440763-2779-4811-a2c4-f747f8bcd426</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.smartfren.SplashActivity'</defaultValue>
+      <description></description>
+      <id>04112b8f-4d5b-453f-866d-81955f0b4c56</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '11', ('deviceId') : 'emulator-5554', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>de54bfa3-ba34-40cf-aa38-7c6b2e59cdb8</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

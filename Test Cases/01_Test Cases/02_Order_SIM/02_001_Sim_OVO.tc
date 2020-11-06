@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_001_Sim_OVO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b0212a8-a33c-46d3-af1f-a765726cafb2</testCaseGuid>
+   <variable>
+      <defaultValue>'com.smartfren'</defaultValue>
+      <description></description>
+      <id>037c92a6-35d6-4b2a-b660-eb1e85654cca</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.smartfren.SplashActivity'</defaultValue>
+      <description></description>
+      <id>0712d0f0-5dca-4149-8c0b-cfa0960a023f</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '11', ('deviceId') : 'emulator-5554', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>d9118b2b-a863-4dbc-810d-ecaf7068fe49</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

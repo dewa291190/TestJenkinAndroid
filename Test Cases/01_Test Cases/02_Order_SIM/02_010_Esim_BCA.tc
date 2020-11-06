@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_010_Esim_BCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4950860-45af-4a09-b32c-cdb38f5a1713</testCaseGuid>
+   <variable>
+      <defaultValue>'com.smartfren'</defaultValue>
+      <description></description>
+      <id>751d05b4-719f-4929-ad8b-82ec9f42b937</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.smartfren.SplashActivity'</defaultValue>
+      <description></description>
+      <id>0ec4e8bb-c930-4333-8c96-ecee3c2aef04</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+   <variable>
+      <defaultValue>[('platformVersion') : '11', ('deviceId') : 'emulator-5554', ('platformName') : 'Android']</defaultValue>
+      <description></description>
+      <id>8b5c0838-b29d-4dd9-abd4-559d7351d096</id>
+      <masked>false</masked>
+      <name>deviceInformation</name>
+   </variable>
+</TestCaseEntity>

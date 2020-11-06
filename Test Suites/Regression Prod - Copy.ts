@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Regression Prod - Copy</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>0cbeda02-8e96-42ca-a1c7-bc3c484404d8</testSuiteGuid>
+   <testCaseLink>
+      <guid>f7c2673e-820b-4456-9932-07a2d1d32e84</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/01_Test Cases/02_Order_SIM/02_013_Esim_InvalidNIK</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>18bd1b6b-461c-4fe9-a175-45961f1d689d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>23d484e2-db3c-4142-b6ad-0decc443b7cd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1ab98542-c23f-4f5c-9e3e-8c249b826bcb</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cf61a699-728e-44cb-8d5d-74da7dd8a532</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/01_Test Cases/03_TopUp/03_001_Topup_OVO</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>121e7d22-9d8b-42de-9ca5-29884d6af8d9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1a57bf55-0537-4660-ba7b-e99025bb58d7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>841f0357-58d6-41e6-8247-cc20af7af541</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8c4771ae-c9a5-4862-9fe4-ede45fce2d23</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/01_Test Cases/05_Plan/05_002_Buy_AddOn_OVO</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f139f97b-3284-4155-82e8-4c788eddad0c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a9d38c33-0460-4ce2-8fb6-bc682d74bc3b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>79b919cc-d142-422f-bcc6-16abc29a0726</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

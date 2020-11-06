@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- An automation script to help user getting started with Mobile automation testing.
+- Script Content: Click &quot;START ALARM SERVICE&quot; and click &quot;STOP ALARM SERVICE&quot;, verify alert show is correct</description>
+   <name>01_Setup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>710e89fd-73c0-4de8-a73d-c34f7a78b3a6</testCaseGuid>
+   <variable>
+      <defaultValue>'com.smartfren'</defaultValue>
+      <description></description>
+      <id>ec4a9293-9ca8-43e7-8ec1-7db78b8ee1a6</id>
+      <masked>false</masked>
+      <name>appPackage</name>
+   </variable>
+   <variable>
+      <defaultValue>'com.smartfren.SplashActivity'</defaultValue>
+      <description></description>
+      <id>99b025cb-cbd5-406a-a538-f1891815db83</id>
+      <masked>false</masked>
+      <name>appActivity</name>
+   </variable>
+</TestCaseEntity>

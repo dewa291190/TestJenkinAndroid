@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment_Simobi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ace3688-e3bb-4251-9db4-bd1dea71be29</testCaseGuid>
+   <variable>
+      <defaultValue>'007007'</defaultValue>
+      <description></description>
+      <id>536ae7cb-9d9a-4138-bed9-273e44117932</id>
+      <masked>false</masked>
+      <name>Simobil_Number</name>
+   </variable>
+</TestCaseEntity>

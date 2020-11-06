@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04_Payment_Smartgift_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29c13986-ebea-43eb-8e5d-e8ca876af121</testCaseGuid>
+   <variable>
+      <defaultValue>'GC00'</defaultValue>
+      <description></description>
+      <id>7ab4092b-4a0f-4909-acc5-4e5319f65563</id>
+      <masked>false</masked>
+      <name>Smartgift_Number</name>
+   </variable>
+</TestCaseEntity>

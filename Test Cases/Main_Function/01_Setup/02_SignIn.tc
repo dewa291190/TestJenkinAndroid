@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- An automation script to help user getting started with Mobile automation testing.
+- Script Content: Click &quot;START ALARM SERVICE&quot; and click &quot;STOP ALARM SERVICE&quot;, verify alert show is correct</description>
+   <name>02_SignIn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a213f51d-64e2-4a24-979b-55a14a197c4f</testCaseGuid>
+</TestCaseEntity>
